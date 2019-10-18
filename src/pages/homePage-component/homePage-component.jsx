@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import sections from './data';
-import MenuItem from '../menuItem-component/menuItem-component';
+import sections from '../../data/data';
+import MenuItem from '../../components/menuItem-component/menuItem-component';
 import "./homePage-component.scss"
 
 class HomePage extends Component {
